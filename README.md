@@ -1,1 +1,2 @@
 # Asp.NetCoreSecurity
+security check
